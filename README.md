@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Email-pn07062004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pn07062004-cloud">
-  <img src="https://img.shields.io/badge/GitHub-pn07062004--cloud-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/nguyenngocphuong0706">
+  <img src="https://img.shields.io/badge/GitHub-nguyenngocphuong0706-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -107,7 +107,7 @@ The project separates major business responsibilities into independent services 
 
 <br/><br/>
 
-<a href="https://github.com/pn07062004-cloud/smart-library-microservices">
+<a href="https://github.com/nguyenngocphuong0706/smart-library-microservices">
   <img src="https://img.shields.io/badge/View%20Project-Smart%20Library%20Microservices-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -140,8 +140,8 @@ I'm always open to learning, collaborating and connecting with other developers.
   <img src="https://img.shields.io/badge/Gmail-pn07062004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pn07062004-cloud">
-  <img src="https://img.shields.io/badge/GitHub-pn07062004--cloud-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/nguyenngocphuong0706">
+  <img src="https://img.shields.io/badge/GitHub-nguyenngocphuong0706-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
